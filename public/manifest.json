@@ -1,6 +1,6 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "robofriends-redux",
   "icons": [
     {
       "src": "favicon.ico",
